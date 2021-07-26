@@ -57,6 +57,10 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
