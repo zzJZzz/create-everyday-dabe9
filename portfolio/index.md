@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Some of my creations...minus the Silver Power Ranger.
 layout_style: mosaic
 seo:
   title: Portfolio
