@@ -26,7 +26,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Web App Development
         content: |
           Ruby/Rails, Tailwind, CSS, HTML, JavaScript, and counting.
       - title: Service Title
