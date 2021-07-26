@@ -36,7 +36,6 @@ layout: project
 ---
 Pitched a party game. It's a work in progress, but I received a lot of feedback from the event.
 
-Learned design & game design.
-
+*Learned design & game design.*
 
 [All But Published](https://allbutpublished.com/)
