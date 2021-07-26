@@ -27,9 +27,8 @@ sections:
     is_numbered: true
     grid_items:
       - title: Service Title
-        content: >
-          Web App Development. Ruby/Rails, Tailwind, CSS, HTML, JavaScript, and
-          counting.
+        content: |
+          Ruby/Rails, Tailwind, CSS, HTML, JavaScript, and counting.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
