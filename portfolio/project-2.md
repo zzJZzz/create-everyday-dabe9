@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: Series of Epic Conquest to Rule the Couch
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
