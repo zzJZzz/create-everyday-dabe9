@@ -33,7 +33,7 @@ sections:
         content: >
           Sales and Business development consulting. Process development, Cold
           outreach, management.
-      - title: Service Title
+      - title: Product Development
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
