@@ -39,7 +39,7 @@ sections:
         content: >
           Designing, manufacturing, launching. Are you ready to launch your
           creation?
-      - title: Service title
+      - title: Cryptography/Blockchain
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
