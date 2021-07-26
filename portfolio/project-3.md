@@ -1,6 +1,6 @@
 ---
 title: Twilight Imperium Faction Generator
-subtitle: Optional Project Subtitle
+subtitle: Discord Bot
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
