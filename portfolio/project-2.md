@@ -5,7 +5,7 @@ date: '2019-04-30'
 thumb_image: images/Series of Epic Conquest To Rule The Couch.png
 thumb_image_alt: An orange on a blue background
 image: images/Series of Epic Conquest To Rule The Couch.png
-image_alt: An orange on a blue background
+image_alt: Card game/Party Game
 seo:
   title: Project Title 2
   description: This is the project 2 description
