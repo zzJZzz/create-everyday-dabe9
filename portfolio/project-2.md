@@ -1,6 +1,6 @@
 ---
 title: Series of Epic Conquest to Rule the Couch
-subtitle: Optional Project Subtitle
+subtitle: Physical Product
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 thumb_image_alt: An orange on a blue background
