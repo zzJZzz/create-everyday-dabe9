@@ -80,7 +80,7 @@ seo:
       value: Create Everyday-Developer³
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Web Development | Business Development | Product Development
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
