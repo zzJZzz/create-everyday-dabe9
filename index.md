@@ -93,7 +93,7 @@ seo:
     - name: 'twitter:description'
       value: Web Development | Business Development | Product Development
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: images/Build Stream.png
       relativeUrl: true
 layout: advanced
 ---
