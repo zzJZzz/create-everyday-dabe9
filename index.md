@@ -83,7 +83,7 @@ seo:
       value: Web Development | Business Development | Product Development
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: images/Build Stream.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
