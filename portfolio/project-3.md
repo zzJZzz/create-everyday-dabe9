@@ -5,7 +5,7 @@ date: '2019-04-08'
 thumb_image: images/Twilight Imperium Faction Generator.png
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/Twilight Imperium Faction Generator.png
-image_alt: A yellow retro telephone on a yellow background
+image_alt: Discord
 seo:
   title: Project Title 3
   description: This is the project 3 description
