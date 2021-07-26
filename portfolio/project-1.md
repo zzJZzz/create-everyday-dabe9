@@ -5,7 +5,7 @@ date: '2019-05-10'
 thumb_image: images/Steel and Oak Watches.png
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/Steel and Oak Watches.png
-image_alt: 'Valo, Courage,'
+image_alt: 'Valo, Courage, Grit'
 seo:
   title: Project Title 1
   description: This is the project 1 description
