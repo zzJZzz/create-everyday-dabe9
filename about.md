@@ -33,19 +33,15 @@ layout: page
 ---
 **I love to create and to problem solve.** The silver power ranger? That was my idea. I'm not saying they stole my crayon drawing, but I haven't been able to find them anywhere.
 
-
 I have been **daydreaming** and **inventing** since I was a baby. My 1st words were "I got an idea, daddy-o". I'm not sure why they let me listen to Jazz at such a young age.
 
 > Software, board games, physical products, jokes, maybe a baby.
 
-I love that we can create something and make an impact. To have an **idea** or a **thought** in the morning and have a version of it by the evening.
+I love that we can create something and make an impact. To have an **idea** or a **thought** in the morning and have a version of it by the evening. Then it's on the internet, a legacy (hopefully) forever.
 
-I want to **create everyday.** Not just come up with an idea of a **physical** or a **digital product** of the "next great thing", but to launch it. What is the framework to make that happen?
+I want to **create everyday.** 
 
-**Create Everyday Framework:**
+Sincerely,
 
-1.  2 minute rule. If it takes less than 2 minutes. Do it now.
+JZ
 
-2.  10 minute rule. Do at least ten minutes of something. Make it the smallest part possible to build momentum.
-
-3.  Don't break the chain. Do these everyday and get a streak going.
