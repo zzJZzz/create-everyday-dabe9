@@ -30,10 +30,9 @@ sections:
         content: |
           Ruby/Rails, Tailwind, CSS, HTML, JavaScript, and counting.
       - title: Business Development
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Sales and Business development consulting. Process development, Cold
+          outreach, management.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
