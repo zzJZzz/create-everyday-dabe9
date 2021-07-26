@@ -71,7 +71,7 @@ sections:
           convallis, interdum ligula vel, pretium diam.
 seo:
   title: Create Everyday
-  description: The preview of the Exto theme
+  description: Web Development | Business Development | Product Development
   extra:
     - name: 'og:type'
       value: website
