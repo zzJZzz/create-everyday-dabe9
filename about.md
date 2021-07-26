@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: "I want to\_create everyday.\_."
-image: images/about.jpg
+image: images/Remote Work Developer Sailboat.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
