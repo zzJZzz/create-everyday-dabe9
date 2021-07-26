@@ -27,8 +27,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Web App Development
-        content: |
-          Ruby/Rails, Tailwind, CSS, HTML, JavaScript, and counting.
+        content: >
+          Ruby/Rails, Tailwind, CSS, HTML, JavaScript, and counting. What can I
+          help you build?
       - title: Business Development
         content: >+
           Sales and Business  consulting. Process development, Cold outreach,
