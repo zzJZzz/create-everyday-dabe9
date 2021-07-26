@@ -34,9 +34,8 @@ seo:
       relativeUrl: true
 layout: project
 ---
-A watch company I started with a couple of friends. 
+A watch company I started with a couple of friends.
 
-Learned about design, manufacturing, marketing, and Shopify.
+*Learned about design, manufacturing, marketing, and Shopify.*
 
 [Steel and Oak Watches](http://www.steelandoak.org/)
-
