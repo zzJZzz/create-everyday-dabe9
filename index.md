@@ -70,7 +70,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
 seo:
-  title: JZ Develop³
+  title: Create Everyday
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
