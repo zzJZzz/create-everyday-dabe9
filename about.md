@@ -1,10 +1,6 @@
 ---
 title: About Me
-subtitle: >-
-  Create Everyday Framework:2 minute rule. If it takes less than 2 minutes. Do
-  it now.10 minute rule. Do at least ten minutes of something. Make it the
-  smallest part possible to build momentum. Don't break the chain. Do these
-  everyday and get a streak going.
+subtitle: "I want to\_create everyday.\_."
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
