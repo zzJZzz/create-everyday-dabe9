@@ -29,7 +29,7 @@ sections:
       - title: Web App Development
         content: |
           Ruby/Rails, Tailwind, CSS, HTML, JavaScript, and counting.
-      - title: Service Title
+      - title: Business Development
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
