@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m JZ.'
     content: |
-      ### WEB | PRODUCT | BUSINESS
+      #### WEB | PRODUCT | BUSINESS
     actions:
       - label: Let's talk
         url: /contact
