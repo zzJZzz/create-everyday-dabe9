@@ -70,7 +70,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
 seo:
-  title: Create Everyday
+  title: Create Everyday- Development ³
   description: Web Development | Business Development | Product Development
   extra:
     - name: 'og:type'
