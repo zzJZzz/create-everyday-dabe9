@@ -43,9 +43,14 @@ I have been **daydreaming** and **inventing** since I was a baby. My 1st wor
 
 I love that we can create something and make an impact. To have an **idea** or a **thought** in the morning and have a version of it by the evening. Then it's on the internet, a legacy (hopefully) forever.
 
-I want to **create everyday.** 
+**Create Everyday Framework:**
+
+1.  2 minute rule. If it takes less than 2 minutes. Do it now.
+
+2.  10 minute rule. Do at least ten minutes of something. Make it the smallest part possible to build momentum.
+
+3.  Don't break the chain. Do these everyday and get a streak going.
 
 Sincerely,
 
 JZ
-
