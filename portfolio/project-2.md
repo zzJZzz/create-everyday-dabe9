@@ -4,7 +4,7 @@ subtitle: Physical Product
 date: '2019-04-30'
 thumb_image: images/Series of Epic Conquest To Rule The Couch.png
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: images/Series of Epic Conquest To Rule The Couch.png
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
