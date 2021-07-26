@@ -36,8 +36,9 @@ sections:
           management. I'll help you close more sales or close them for you.
 
       - title: Product Development
-        content: |
-          Designing, manufacturing, launching.
+        content: >
+          Designing, manufacturing, launching. Are you ready to launch your
+          creation?
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
