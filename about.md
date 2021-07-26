@@ -31,11 +31,21 @@ seo:
       relativeUrl: true
 layout: page
 ---
+**I love to create and to problem solve.** The silver power ranger? That was my idea. I'm not saying they stole my crayon drawing, but I haven't been able to find them anywhere.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+I have been **daydreaming** and **inventing** since I was a baby. My 1st words were "I got an idea, daddy-o". I'm not sure why they let me listen to Jazz at such a young age.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+> Software, board games, physical products, jokes, maybe a baby.
 
-*Thank You for reading!*
+I love that we can create something and make an impact. To have an **idea** or a **thought** in the morning and have a version of it by the evening.
+
+I want to **create everyday.** Not just come up with an idea of a **physical** or a **digital product** of the "next great thing", but to launch it. What is the framework to make that happen?
+
+**Create Everyday Framework:**
+
+1.  2 minute rule. If it takes less than 2 minutes. Do it now.
+
+2.  10 minute rule. Do at least ten minutes of something. Make it the smallest part possible to build momentum.
+
+3.  Don't break the chain. Do these everyday and get a streak going.
