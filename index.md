@@ -91,7 +91,7 @@ seo:
     - name: 'twitter:title'
       value: Create Everyday- Developer ³
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Web Development | Business Development | Product Development
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
