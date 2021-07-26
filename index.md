@@ -30,9 +30,10 @@ sections:
         content: |
           Ruby/Rails, Tailwind, CSS, HTML, JavaScript, and counting.
       - title: Business Development
-        content: >
+        content: >+
           Sales and Business  consulting. Process development, Cold outreach,
-          management.
+          management. I'll help you close more sales or close them for you.
+
       - title: Product Development
         content: |
           Designing, manufacturing, launching.
