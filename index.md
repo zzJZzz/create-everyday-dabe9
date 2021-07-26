@@ -21,7 +21,7 @@ sections:
     subtitle: Things I've Built.
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: What I Do
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
