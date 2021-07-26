@@ -47,7 +47,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: A few nice words.
     col_number: three
     testimonials:
       - author: DaKari Williams
