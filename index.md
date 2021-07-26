@@ -40,9 +40,10 @@ sections:
           Designing, manufacturing, launching. Are you ready to launch your
           creation?
       - title: Cryptography/Blockchain
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          What is DeFi? An NFT is just a jpeg right? Why are there so many
+          different currencies? What problems do they solve? How can it help my
+          business? All questions I can answer.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
