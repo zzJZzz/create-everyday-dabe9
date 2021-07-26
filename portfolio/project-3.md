@@ -36,8 +36,7 @@ layout: project
 ---
 Version 2; has turned into a discord bot. Now we can send a chat command and automatically get the random factions in chat. Will probably add a couple of more commands.
 
-
-Learned API, Discord, Bots, Repl.it
+*Learned API, Discord, Bots, Repl.it*
 
 [TI4 Github](https://github.com/zzJZzz/twilightimperiumfactiongenerator)
 
