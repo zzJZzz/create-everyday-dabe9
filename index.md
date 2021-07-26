@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m JZ. Developer'
+    title: 'Hi, I''m JZ. I''m a Developer'
     content: |
       #### WEB | PRODUCT | BUSINESS
     actions:
