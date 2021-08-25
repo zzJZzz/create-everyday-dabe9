@@ -62,7 +62,7 @@ sections:
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: I love his enthusiasm and his communication!
-      - author: Deegan Wallace
+      - author: Mom
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: Guaranteed to solve any problem!
