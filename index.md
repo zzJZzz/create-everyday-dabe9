@@ -66,8 +66,8 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Known him his whole life. Guaranteed to solve any problem! I've never
-          seen anyone so obsessive when it comes to problem solving.
+          Known him his whole life. I've never seen anyone so obsessive when it
+          comes to problem solving.
 seo:
   title: Create Everyday- Development ³
   description: Web Development | Business Development | Product Development
