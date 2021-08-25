@@ -51,7 +51,7 @@ sections:
     col_number: three
     testimonials:
       - author: DaKari Williams
-        avatar: images/sean_salazar.jpg
+        avatar: images/Doc Williams Profile Picture.JPG
         avatar_alt: Sean Salazar's photo
         content: >-
           JZ is a wonderful partner to work with. His insights are invaluable,
