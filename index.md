@@ -58,10 +58,6 @@ sections:
           and whenever I need help looking a project from a new point of view,
           he always brings a fresh eye and new ideas. I know whenever I need
           help, he'll be ready to assist.
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: lorem-ipsum
-        type: testimonial
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
