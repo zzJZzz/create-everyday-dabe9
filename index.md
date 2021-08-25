@@ -61,9 +61,7 @@ sections:
       - author: Paula Najas
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: I love his enthusiasm and his communication!
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
