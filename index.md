@@ -55,7 +55,9 @@ sections:
         avatar_alt: Sean Salazar's photo
         content: >-
           JZ is a wonderful partner to work with. His insights are invaluable,
-          and whenever I need help
+          and whenever I need help looking a project from a new point of view,
+          he always brings a fresh eye and new ideas. I know whenever I need
+          help, he'll be ready to assist.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
