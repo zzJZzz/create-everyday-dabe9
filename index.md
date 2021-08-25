@@ -50,7 +50,7 @@ sections:
     subtitle: A few nice words.
     col_number: three
     testimonials:
-      - author: DaKari Williams
+      - author: DaKari Williams | Brand Factory
         avatar: images/Doc Williams Profile Picture.JPG
         avatar_alt: Sean Salazar's photo
         content: >-
