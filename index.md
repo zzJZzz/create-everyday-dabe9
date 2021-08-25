@@ -59,7 +59,7 @@ sections:
           he always brings a fresh eye and new ideas. I know whenever I need
           help, he'll be ready to assist.
       - author: Paula Najas
-        avatar: images/aubrey_hoover.jpg
+        avatar: images/Profile Icon.jpg
         avatar_alt: Aubrey Hoover's photo
         content: I love his enthusiasm and his communication!
       - author: Mom
