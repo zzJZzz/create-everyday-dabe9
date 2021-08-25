@@ -68,7 +68,7 @@ sections:
         content: >-
           Known him his whole life. I've never seen anyone so obsessive when it
           comes to problem solving. (I'm worried he may invent a time machine
-          and mess with the time continuum).
+          and mess with the time continuum). 10/10 would do it all over again.
 seo:
   title: Create Everyday- Development ³
   description: Web Development | Business Development | Product Development
