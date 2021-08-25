@@ -58,7 +58,7 @@ sections:
           and whenever I need help looking a project from a new point of view,
           he always brings a fresh eye and new ideas. I know whenever I need
           help, he'll be ready to assist.
-      - author: Paula Najas
+      - author: Paula Najas | Wheelhouse.io
         avatar: images/Profile Icon.jpg
         avatar_alt: Aubrey Hoover's photo
         content: I love his enthusiasm and his communication!
