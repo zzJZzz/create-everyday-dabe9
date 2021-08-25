@@ -63,7 +63,7 @@ sections:
         avatar_alt: Aubrey Hoover's photo
         content: I love his enthusiasm and his communication!
       - author: Mom |
-        avatar: images/deegan_wallace.jpg
+        avatar: images/Mom of Great Blockchain Developer.png
         avatar_alt: Deegan Wallace's photo
         content: >-
           Known him his whole life. I've never seen anyone so obsessive when it
