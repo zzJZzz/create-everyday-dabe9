@@ -62,7 +62,7 @@ sections:
         avatar: images/Female Profile.jpg
         avatar_alt: Aubrey Hoover's photo
         content: I love his enthusiasm and his communication!
-      - author: Mom |
+      - author: Mom | JZ Inc.
         avatar: images/Mom of Great Blockchain Developer.png
         avatar_alt: Deegan Wallace's photo
         content: >-
