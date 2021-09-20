@@ -36,6 +36,8 @@ layout: project
 ---
 A client wanted a private hosted "Netflix" or "Youtube" to host and paywall their videos.
 
-
-
 *Worked with video.js, rails, jumpstart, tailwind.*
+
+**
+
+[*streamingshell.com*](streamingshell.com)
