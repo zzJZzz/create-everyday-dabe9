@@ -38,6 +38,6 @@ A client wanted a private hosted "Netflix" or "Youtube" to host and paywall thei
 
 *Worked with video.js, rails, jumpstart, tailwind.*
 
-**
+\*\*
 
-[*streamingshell.com*](streamingshell.com)
+[BuildStream](http://www.streamingshell.com/)
